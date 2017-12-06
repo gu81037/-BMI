@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #BMI 计算
 
 while True:
